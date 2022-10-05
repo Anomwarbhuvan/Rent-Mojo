@@ -65,7 +65,7 @@ export const housesData = [
     imageLg: House1Lg,
     country: 'United States',
     address: '7240C Argyle St. Lawndale, CA 90260',
-    Housename: 'Palm Harbour',
+    Housename: 'Palm One',
     bedrooms: '6 beds',
     bathrooms: '3',
     surface: '4200 sq ft',
